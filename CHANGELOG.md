@@ -2,6 +2,15 @@
 
 <!-- version list -->
 
+## v1.2.1 (2026-01-26)
+
+### Bug Fixes
+
+- Include reports dir with commits
+  ([#3](https://github.com/ShaneMcGovern/talk-to-history-hpl-brown-metadata/pull/3),
+  [`6a47729`](https://github.com/ShaneMcGovern/talk-to-history-hpl-brown-metadata/commit/6a47729877ff0688a858b4b5183ba7f136b1e728))
+
+
 ## v1.2.0 (2026-01-26)
 
 ### Features
